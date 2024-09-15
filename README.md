@@ -8,6 +8,7 @@
 
 **Function - Marketing**
 
+An unguided project which i completed as part of the Virtual Internship of Data Analytics BootCamp with [Codebasics](https://codebasics.io/)
 
 This objective of this project was to perform data analysis on the transactional dataset of Shield Insurance Company and report the key findings related to **Customer segments, Sales Channels, Product preferences etc** to the Management.
 
