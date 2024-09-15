@@ -1,4 +1,4 @@
-** SHIELD INSURANCE MARKET ANALYSIS REPORT**
+**SHIELDINSURANCE MARKET ANALYSIS REPORT**
 
 
 
@@ -9,53 +9,58 @@
 **Function - Marketing**
 
 
-AtliQ Grands is a prominent player in the Indian hospitality industry for the past 20 years. They own multiple five-star hotels across India in the Business and Luxury Category.
-But Currently they are facing a declining market share and revenue due to competition and ineffective decision-making.
- 
+This objective of this project was to perform data analysis on the transactional dataset of Shield Insurance Company and report the key findings related to **Customer segments, Sales Channels, Product preferences etc** to the Management.
 
+The dataset used for analysis were the transactions from November 2022 to April 2023.
 
-This data analysis project is conducted to analyze the revenue performance of AtliQ Grands hotel chain and provide Insights and suggestions necessary to improve revenue.
-
- 
-
-The data exploration, analysis and dashboarding was done using **Python and Power BI.**
-
-
-
-The analysis is performed over a dataset of 3 months period (May 2022- July 2022)
-
-
-
-The Following are the **Key Metrics** used in this data analysis Project:
-
-
-* **Average Daily Revenue - ADR -** represents the average revenue earned per occupied room/rooms sold in a hotel over a
-specific period.
-
-
-* **Revenue Per Available Room - RevPAR -** measures the average revenue generated from each available room, whether it
-is occupied or not.
-
-
-* **Occupancy Rate** refers to the percentage of available rooms that are occupied/sold out during a specific time period.
-
+The Key Metrics used are **Total Revenue, Total Customers, Daily Revenue and Daily customers.**
 
 
 Links:
 
-- [LinkedIn Post](https://www.linkedin.com/posts/fasal-mohammed-497463311_businessintelligence-dataanalysis-powerbi-activity-7240016534583087104-8b2x?utm_source=share&utm_medium=member_desktop)
-
-- [Youtube Video Presentation](https://youtu.be/VUeRctzp91c)
+- [Youtube Video Presentation](https://youtu.be/T8y97EP6e4c)
 
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjk3NDkzODItNjZlNC00Y2ViLWJlMDgtNWRhMzYyOTVhYjk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9187267e46fe36ee9e5e)
 
 
-![Hospitality](https://github.com/user-attachments/assets/a0d6e5ae-18e0-4332-aec6-7daca8246718)
+**Operational background of the company**
 
+**Operations in five cities**
+* Delhi NCR
+* Mumbai
+* Chennai
+* Hyderabad
+* Indore
+  
+**9 different Policies**
+
+* Base coverage ranging from Rs. 2 lakh to Rs.1 crore.
+* Four different Sale Modes
+* Offline-Agent
+* Offline-Direct
+* Online-App
+* Online-Website
 
 **Data Modelling**
 
+![Data Modelling](https://github.com/user-attachments/assets/bd4dd309-add8-4660-9b57-acf4a9437747)
 
-![Data Modelling](https://github.com/user-attachments/assets/986cf7c5-14d1-414c-9a14-1c2a9571f46c)
 
 
+
+**KEY FINDINGS**
+
+* March 2023 recorded the highest revenue generation and Customer acquisition.
+  
+* Delhi NCR has the largest customer base and has generated the most amount of revenue.
+  
+* 31-40 is the age group with the most amount of revenue and customer acquisition.
+
+* Offline-Agent mode has acquired the most customers and generated the most revenue.
+
+* Offline-Direct mode is experiencing a steady decline in revenue generation and custome acquisition.
+
+* Online-App and Online-Website mode is undergoing a steady pickup in revenue generation and customer acquisition.
+
+* The most preferred policy by customers is POL4321HEL.
+  
